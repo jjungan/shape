@@ -20,8 +20,8 @@ public class ShapeApp {
 		point3.show(true);*/
 		
 //		Point a = new ColorPoint(3, 4, "red");
-/*		Point a = new ColorPoint();
-		a.draw();*/
+		Point a = new ColorPoint();
+		a.draw();
 		
 		// instanceof 테스트
 		Circle c = new Circle();
